@@ -1,4 +1,4 @@
-# PMAxxx Protocol
+# PMAxx Protocol
 
 (1)	Suspend 250mg of soil in 1000 ul of CTAB buffer. Create two reps for each sample (one will receive PMAxx and one won't).
 
